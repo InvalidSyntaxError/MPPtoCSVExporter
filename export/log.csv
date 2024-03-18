@@ -1,0 +1,798 @@
+Resources
+UniqueID	ID	Name
+0	0	
+1	1	John
+2	2	Jane
+3	3	Wendy
+4	4	Karen
+5	5	Joseph
+6	6	Raj
+7	7	Christopher
+8	8	Lydia
+9	9	Inoka
+10	10	William
+11	11	Richard
+15	12	Samantha
+16	13	Roger
+17	14	Ricky
+18	15	Joan
+19	16	Jeffrey
+20	17	Judith
+22	18	Mary
+23	19	Tyler
+24	20	Shaun
+25	21	Tiffany
+26	22	Jackie
+
+Tasks
+UniqueID	ID	Name	Start	End	Duration
+0	0	CDL Project Plan without Lows2	12.02.2009 08:00:00	13.02.2010 08:00:00	262.0d
+2	1	Requirements and Development	12.02.2009 08:00:00	01.01.2010 16:56:54	231.99354166666666d
+3	2	Module 1	12.02.2009 08:00:00	01.01.2010 16:56:54	231.99354166666666d
+358	3	Eligible Transaction Sources	12.02.2009 08:00:00	17.07.2009 15:20:00	111.79166666666667d
+395	4	Identify all sources that go into loader	17.07.2009 10:20:00	17.07.2009 15:20:00	0.5d
+128	5	Identify sources that skip loader	09.07.2009 13:20:00	13.07.2009 08:20:00	1.5d
+129	6	Identify sources that skip loader	14.07.2009 10:20:00	15.07.2009 10:20:00	1.0d
+130	7	Forecast of data volumes / rates from various sources by seasonality, geography for sizing	12.02.2009 08:00:00	12.02.2009 11:00:00	0.375d
+131	8	Current Country Routing Rules	12.02.2009 11:00:00	12.02.2009 11:00:00	0.0d
+132	9	Identify initial Source uptake priority (will require further analysis)	18.05.2009 16:20:00	20.05.2009 15:20:00	1.875d
+359	10	Stakeholder Discussions	10.03.2009 13:00:00	20.07.2009 10:20:00	93.79166666666667d
+360	11	Create Interview Questions and identify stakeholders, etc	10.03.2009 13:00:00	11.03.2009 15:00:00	1.25d
+397	12	Review Stakeholder Questions and Interview Candidates	12.03.2009 13:40:00	13.03.2009 08:40:00	0.5d
+134	13	Interview and document feedback for stakeholders	13.03.2009 08:40:00	17.03.2009 13:40:00	2.5d
+398	14	Translate Stakeholder Feedback into Business Requirements	08.06.2009 10:20:00	12.06.2009 08:20:00	3.75d
+27	15	Evaluate web Roadmap impact to project	17.07.2009 15:20:00	20.07.2009 10:20:00	0.5d
+361	16	Business Rules for Incoming Loader Data	08.05.2009 16:20:00	17.07.2009 10:20:00	49.375d
+71	17	Determine minimum data requirements	13.07.2009 08:20:00	14.07.2009 10:20:00	1.25d
+399	18	Routing Rules for Incoming Data	03.07.2009 16:00:00	07.07.2009 16:00:00	2.0d
+121	19	Understand and Document As-IS Web Validations	15.07.2009 10:20:00	16.07.2009 10:20:00	1.0d
+105	20	Current Loaderdata validation	08.05.2009 16:20:00	13.05.2009 16:20:00	3.0d
+401	21	Future Loader data validation requirements	13.05.2009 16:20:00	14.05.2009 16:20:00	1.0d
+400	22	Loader Transformation Rules (ie Organization Name = person name rule)	14.05.2009 16:20:00	18.05.2009 16:20:00	2.0d
+69	23	Review Current hard-link Process (and when they are broken).	16.07.2009 10:20:00	17.07.2009 10:20:00	1.0d
+362	24	Data Rules Proof of Concept (use sample data)	27.05.2009 15:20:00	08.06.2009 10:20:00	7.5d
+364	25	Definition of Intake  Priorities (Metadata)	31.03.2009 13:40:00	14.04.2009 13:40:00	10.0d
+76	26	Review current development new Priorities Maintenance tool	31.03.2009 13:40:00	03.04.2009 08:40:00	2.5d
+75	27	Evaluate SLA impacts for transaction source	08.04.2009 15:40:00	14.04.2009 13:40:00	3.75d
+365	28	File Load process map and gap	03.04.2009 08:40:00	29.12.2009 14:41:54	192.62895833333334d
+94	29	File load business requirements	03.04.2009 08:40:00	03.04.2009 13:40:00	0.5d
+93	30	File Load Functional Requirements	07.04.2009 13:40:00	08.04.2009 15:40:00	1.25d
+92	31	File Load Error Reporting Requirements	14.04.2009 13:40:00	14.04.2009 16:20:00	0.3333333333333333d
+95	32	Design File Load application	28.12.2009 11:41:54	29.12.2009 14:41:54	1.25d
+366	33	Product Data Source process map and gap	09.03.2009 08:00:00	27.05.2009 09:00:00	57.125d
+402	34	Product Data Source Business Requirements	09.03.2009 08:00:00	10.03.2009 12:00:00	1.5d
+353	35	Product Data Source Functional Requirements	17.03.2009 13:40:00	31.03.2009 13:40:00	10.0d
+352	36	Design Product Data Source Solution	22.05.2009 08:00:00	27.05.2009 09:00:00	3.125d
+368	37	Business Rules for Outgoing Data	06.04.2009 13:40:00	01.07.2009 11:00:00	61.791666666666664d
+346	38	Define data sent back to sources	26.06.2009 11:00:00	01.07.2009 11:00:00	3.0d
+405	39	Define communication back to Web for Hard Link and Statuses	06.04.2009 13:40:00	07.04.2009 13:40:00	1.0d
+90	40	Junk data analysis ? approach options	11.03.2009 15:00:00	26.06.2009 11:00:00	76.625d
+109	41	Consensus on acceptable junk data%	11.03.2009 15:00:00	12.03.2009 13:40:00	0.8333333333333334d
+356	42	Junk Analysis Testing	23.06.2009 08:20:00	26.06.2009 11:00:00	3.3333333333333335d
+117	43	Document Intake Queue technical requirements	07.09.2009 14:07:24	08.09.2009 10:27:24	0.6666666666666666d
+108	44	Process flow for Intake Queue	20.04.2009 16:20:00	23.04.2009 11:20:00	2.5d
+107	45	Document Intake Queue business requirements	22.06.2009 08:20:00	23.06.2009 08:20:00	1.0d
+77	46	Requirements Review and Post Review Adjustments	15.04.2009 16:20:00	17.04.2009 16:20:00	2.0d
+396	47	Finalize Source uptake Schedule	20.05.2009 15:20:00	27.05.2009 15:20:00	5.0d
+152	48	Development	12.02.2009 08:00:00	01.01.2010 16:56:54	231.99354166666666d
+118	49	Re-design loader  (modify it to use loader q)	25.08.2009 15:30:00	28.08.2009 16:30:00	3.125d
+115	50	Develop File Loader	07.08.2009 10:30:00	24.08.2009 10:00:00	10.9375d
+114	51	Re-design Product Data Source (modify it to use loader)	29.12.2009 14:41:54	01.01.2010 15:41:54	3.125d
+113	52	Implement Product modifications	14.07.2009 13:00:00	30.07.2009 17:00:00	12.5d
+112	53	Design metadata for priority manager	27.05.2009 09:00:00	27.05.2009 16:15:00	0.78125d
+111	54	Design priority manager	03.04.2009 08:40:00	03.04.2009 15:55:00	0.78125d
+110	55	Develop priority manager	10.04.2009 13:00:00	20.04.2009 15:00:00	6.25d
+25	56	Develop loader/result queues	11.05.2009 10:00:00	12.05.2009 15:30:00	1.5625d
+409	57	Develop result queue subscriber	12.05.2009 15:30:00	15.05.2009 09:15:00	2.34375d
+408	58	Modify Web API (clear Ids on substantial change, add missing event monitoring)	21.05.2009 15:45:00	02.06.2009 14:15:00	7.8125d
+347	59	Develop Web Subscriber (hard link)	15.05.2009 09:15:00	21.05.2009 15:45:00	4.6875d
+348	60	Develop Loader Close Loop (to send activities)	21.05.2009 15:45:00	02.06.2009 14:15:00	7.8125d
+411	61	Develop back-end script loader API	02.06.2009 14:15:00	10.06.2009 16:15:00	6.25d
+24	62	Create AutoDeploys/Installers	03.04.2009 08:00:00	06.04.2009 13:30:00	1.5625d
+22	63	Design/code reviews	29.04.2009 08:00:00	30.04.2009 13:30:00	1.5625d
+5	64	Create scripts/queries for troubleshooting	27.04.2009 08:00:00	30.04.2009 09:00:00	3.125d
+412	65	Reports - technology and tools 	12.02.2009 08:00:00	05.03.2009 14:00:00	15.625d
+339	66	Additional Development	15.07.2009 09:00:00	23.07.2009 11:00:00	6.25d
+232	67	Dev Complete	01.01.2010 15:41:54	01.01.2010 16:56:54	0.15625d
+151	68	Module 2	12.02.2009 08:00:00	30.10.2009 09:06:42	186.13895833333333d
+370	69	Decide on best record v/s best score (for each entity for all sources)	12.02.2009 08:00:00	20.02.2009 11:00:00	6.375d
+147	70	Review all Sources	12.02.2009 08:00:00	12.02.2009 12:00:00	0.5d
+146	71	Meet with key business owners from owning Apps	12.02.2009 13:00:00	13.02.2009 15:00:00	1.25d
+145	72	Obtain sample data from key areas with BR and w/out	13.02.2009 15:00:00	16.02.2009 12:00:00	0.75d
+144	73	Review sample data for with BR and w/out	16.02.2009 13:00:00	20.02.2009 10:00:00	3.75d
+143	74	Communicate BR decision to team and stakeholders	20.02.2009 10:00:00	20.02.2009 11:00:00	0.125d
+371	75	Set thresholds - for all attributes	20.02.2009 11:00:00	13.03.2009 13:50:00	15.229166666666666d
+394	76	Algorithm change Impacts	12.03.2009 10:50:00	13.03.2009 13:50:00	1.25d
+141	77	Agree on Testing methodology	20.02.2009 11:00:00	20.02.2009 17:00:00	0.625d
+140	78	Acquire data, Prepare Spreadsheets, Train Testers, etc	23.02.2009 08:00:00	24.02.2009 10:00:00	1.25d
+139	79	Americas Testing	05.03.2009 08:50:00	11.03.2009 11:50:00	4.375d
+138	80	Europe Testing	24.02.2009 10:00:00	02.03.2009 14:00:00	4.375d
+137	81	Get consensus on Thresholds	03.03.2009 15:50:00	05.03.2009 08:50:00	1.25d
+372	82	Document process flow for each path in the core (workflow process flow)	10.03.2009 11:00:00	26.03.2009 10:50:00	11.979166666666666d
+162	83	Evaluate site reactivation	24.03.2009 11:50:00	26.03.2009 10:50:00	1.875d
+161	84	Define status instructions for BPEL (eg reactivate contact points)	12.03.2009 08:00:00	13.03.2009 10:00:00	1.25d
+160	85	Sign off on process flows	10.03.2009 11:00:00	10.03.2009 17:00:00	0.625d
+374	86	Evaluate Compare Methods	23.02.2009 08:00:00	03.03.2009 17:00:00	7.0d
+176	87	Agree on Testing methodology	23.02.2009 08:00:00	24.02.2009 10:00:00	1.25d
+175	88	Acquire data	24.02.2009 16:00:00	25.02.2009 16:00:00	1.0d
+174	89	Address Testing	25.02.2009 16:00:00	27.02.2009 15:00:00	1.875d
+173	90	Organization Testing	27.02.2009 15:00:00	03.03.2009 14:00:00	1.875d
+168	91	Get consensus on Address and Organization	03.03.2009 14:00:00	03.03.2009 17:00:00	0.375d
+230	92	General Requirements	24.02.2009 10:00:00	05.06.2009 17:00:00	73.75d
+208	93	Evaluate needed  data updates prior to search (eg country code append)?partner with Kate and Vicky	30.03.2009 09:50:00	31.03.2009 11:50:00	1.25d
+179	94	Define super user groups for validation of requirements, DI process	02.04.2009 10:20:00	02.04.2009 15:20:00	0.5d
+204	95	Requirements and Test for special characters and data load, corrupted data	26.03.2009 10:50:00	30.03.2009 09:50:00	1.875d
+184	96	Reprocessing of existing data in pipeline for changes to master settings	24.02.2009 10:00:00	24.02.2009 16:00:00	0.625d
+180	97	Random sample data runs for automation as well as DI	04.03.2009 08:00:00	10.03.2009 11:00:00	4.375d
+201	98	Determine root cause for failed matching, for junk, for reprocessing,  or for CR	16.03.2009 13:20:00	17.03.2009 15:20:00	1.25d
+334	99	Requirements Complete	05.06.2009 08:00:00	05.06.2009 17:00:00	1.0d
+159	100	Development	20.02.2009 10:00:00	30.10.2009 09:06:42	179.88895833333333d
+333	101	Design XML payload 	05.08.2009 08:00:00	17.08.2009 10:40:00	8.333333333333334d
+167	102	Design core BPELs (match, create, update logic)	08.06.2009 08:00:00	15.06.2009 13:26:42	5.555625d
+158	103	Build BPEL	26.06.2009 13:00:00	21.07.2009 09:20:00	16.666666666666668d
+328	104	Design search web service wrappers	01.07.2009 08:00:00	07.07.2009 09:20:00	4.166666666666667d
+155	105	Evaluate get web service wrappers (map&gap current WS support)	20.02.2009 10:00:00	25.02.2009 08:13:18	2.7777083333333334d
+157	106	Build search web service wrappers	25.02.2009 08:13:18	12.03.2009 09:06:36	11.111041666666667d
+183	107	Build error q and management	06.10.2009 10:00:06	21.10.2009 10:53:24	11.111041666666667d
+223	108	Design ESB/BPEL queue listeners	20.02.2009 10:00:00	25.02.2009 08:13:18	2.7777083333333334d
+226	109	Design metadata object architecture	12.08.2009 09:46:42	21.08.2009 09:20:00	6.944375d
+227	110	Define interaction mechanisms for metadata	05.10.2009 08:00:00	07.10.2009 09:46:42	2.2222916666666666d
+166	111	Design results / UP update queue	14.09.2009 08:00:00	14.09.2009 13:26:42	0.555625d
+414	112	Build new Sync Functionality for Change Source	14.09.2009 13:26:42	22.09.2009 08:53:24	5.555625d
+331	113	Define sequence of bringing tiers up and down	22.09.2009 08:53:24	23.09.2009 09:46:42	1.1110416666666667d
+338	114	Additional Development Work	11.09.2009 16:20:06	01.10.2009 15:26:48	13.888958333333333d
+332	115	Define data recovery plan for errant BPELs	12.08.2009 15:40:00	27.08.2009 16:33:18	11.111041666666667d
+178	116	Create AutoDeploys/Installers	04.09.2009 14:06:42	08.09.2009 08:13:24	1.3889583333333333d
+233	117	Dev Complete	30.10.2009 08:00:00	30.10.2009 09:06:42	0.13895833333333332d
+7	118	Manual Processing	12.02.2009 08:00:00	01.12.2009 14:20:00	208.66666666666666d
+375	119	Document business requirements	12.02.2009 08:00:00	12.06.2009 10:40:00	86.33333333333333d
+265	120	Understand as is functionality, Evaluate Current gaps	12.02.2009 08:00:00	19.02.2009 15:40:00	5.833333333333333d
+264	121	Create interview questions and interview users of the Data Entry group	19.02.2009 15:40:00	16.03.2009 12:00:00	16.666666666666668d
+263	122	Define priority management tool at individual record level (move SLA risk records to top of q)	05.06.2009 10:40:00	09.06.2009 15:40:00	2.5d
+261	123	Mock ups for DI UI and conduct focus groups	16.03.2009 13:00:00	26.03.2009 15:40:00	8.333333333333334d
+260	124	Define search capabilities of interface (Bring in record based on priority, criteria)	12.05.2009 15:40:00	18.05.2009 09:20:00	3.3333333333333335d
+259	125	Evaluate feature to allow manual edit of incoming record	09.06.2009 15:40:00	12.06.2009 10:40:00	2.5d
+257	126	Determine address standardization, validation rules (Need 3 party tool?)	05.05.2009 08:00:00	13.05.2009 14:20:00	6.666666666666667d
+254	127	Set priorities for records that get re-queued to core	18.05.2009 09:20:00	18.05.2009 17:00:00	0.8333333333333334d
+376	128	Document system requirements	16.03.2009 09:20:00	14.07.2009 10:25:42	86.136875d
+273	129	Document User access requirements	26.03.2009 15:40:00	30.03.2009 09:20:00	1.3333333333333333d
+272	130	Audit/List of fields for manual review	12.06.2009 10:40:00	16.06.2009 10:40:00	2.0d
+325	131	Define capability to manage statuses (rejected, approved, onhold, junk) at record or batch level	10.07.2009 16:45:42	14.07.2009 10:25:42	1.3333333333333333d
+271	132	Determine fields that user can modify/edit, view only, or add (keep or overwrite)	09.04.2009 13:00:00	15.04.2009 14:20:00	4.166666666666667d
+270	133	Define data architecture requirements (eg site use)	02.06.2009 08:00:00	05.06.2009 10:40:00	3.3333333333333335d
+253	134	Country Specific Data Requirments (own line item, this is separate from one above)	16.03.2009 09:20:00	26.03.2009 12:00:00	8.333333333333334d
+336	135	Requirements Complete	21.05.2009 08:00:00	21.05.2009 17:00:00	1.0d
+377	136	Create business process flow charts	15.04.2009 14:20:00	12.05.2009 15:40:00	19.166666666666668d
+249	137	Define close loop processes (alert to end users when contact is rejected)	28.04.2009 08:00:00	05.05.2009 15:40:00	5.833333333333333d
+248	138	Define workflow process/ resolution process / process flows	15.04.2009 14:20:00	27.04.2009 17:00:00	8.333333333333334d
+247	139	Define use cases for manual intervention	05.05.2009 15:40:00	12.05.2009 15:40:00	5.0d
+246	140	Development	26.03.2009 15:40:00	01.12.2009 14:20:00	177.83333333333334d
+312	141	Create prototype for Data Entry interface	10.08.2009 08:00:00	10.08.2009 08:00:00	0.0d
+415	142	Develop Purging mechanism for workflow data	22.05.2009 08:00:00	27.05.2009 10:40:00	3.3333333333333335d
+416	143	Define remaining Data Entry API actions	22.05.2009 08:00:00	25.05.2009 10:40:00	1.3333333333333333d
+297	144	Evaluate real-time rematching logic	16.08.2009 19:40:00	16.08.2009 19:40:00	0.0d
+315	145	Develop interface between queue and Data Architecture	29.05.2009 09:20:00	17.06.2009 12:00:00	13.333333333333334d
+300	146	User login, access mechanism	01.05.2009 15:40:00	05.05.2009 15:40:00	2.0d
+310	147	Architectural review of platform	05.05.2009 15:40:00	05.05.2009 15:40:00	0.0d
+311	148	Platform decision for User Interface	24.05.2009 17:00:00	24.05.2009 17:00:00	0.0d
+337	149	Technical Designs	08.06.2009 08:00:00	16.06.2009 14:20:00	6.666666666666667d
+303	150	Design review of Data Entry solution	18.06.2009 11:40:00	22.06.2009 09:00:00	1.6666666666666667d
+309	151	Define DB objects for Data Entry design	12.08.2009 08:00:00	20.08.2009 14:20:00	6.666666666666667d
+308	152	Data Entry Application Development	26.03.2009 15:40:00	13.05.2009 09:20:00	33.333333333333336d
+295	153	Develop Alerting Mechanisms	31.05.2009 03:00:00	31.05.2009 03:00:00	0.0d
+417	154	Implement Audit calls	01.06.2009 08:00:00	02.06.2009 14:20:00	1.6666666666666667d
+418	155	Create installs and rollbacks for Data Entry solution	02.06.2009 14:20:00	04.06.2009 10:40:00	1.6666666666666667d
+302	156	Code review of Data Entry solution	04.06.2009 10:40:00	05.06.2009 17:00:00	1.6666666666666667d
+293	157	Development Complete	30.10.2009 08:00:00	30.10.2009 09:20:00	0.16666666666666666d
+242	158	Create installs and rollbacks for Data Entry solution	30.11.2009 08:00:00	01.12.2009 14:20:00	1.6666666666666667d
+13	159	Audit Tracking and Error Mgmt	12.02.2009 08:00:00	23.11.2009 16:32:48	202.94333333333333d
+15	160	Evaluate WAP processes and impact	14.04.2009 16:20:00	15.04.2009 16:20:00	1.0d
+18	161	Error management requirements	24.04.2009 11:20:00	30.04.2009 09:20:00	3.75d
+16	162	Understand current process and determine new requirements for testing and troubleshooting	04.05.2009 09:20:00	05.05.2009 09:20:00	1.0d
+14	163	Requirements for Audit tracking	05.05.2009 09:20:00	08.05.2009 16:20:00	3.75d
+17	164	Alerts mechanism	12.02.2009 08:00:00	12.02.2009 17:00:00	1.0d
+269	165	Define audit requirements 	26.05.2009 08:00:00	01.06.2009 17:00:00	5.0d
+277	166	Evaluate Alerting Needs	20.05.2009 14:20:00	25.05.2009 17:00:00	3.3333333333333335d
+327	167	Develop Display System Status	23.11.2009 08:00:00	23.11.2009 16:32:48	0.9433333333333334d
+326	168	Identify monitoring checkpoints	07.07.2009 10:40:00	08.07.2009 17:00:00	1.6666666666666667d
+215	169	Audit mechanism for inflow and outflow	30.04.2009 09:20:00	30.04.2009 14:46:42	0.555625d
+221	170	Define audit mechanisms (on SOA, Oracle)	21.08.2009 09:00:00	28.08.2009 14:26:42	5.555625d
+234	171	Dev Complete	28.08.2009 14:26:42	31.08.2009 14:26:42	1.0d
+21	172	Reporting and Alerts	01.05.2009 09:20:00	27.10.2009 09:44:00	127.05d
+97	173	Define how SLA reports will be measured	01.05.2009 09:20:00	04.05.2009 09:20:00	1.0d
+268	174	Define requirements for end user reports	13.05.2009 14:20:00	20.05.2009 14:20:00	5.0d
+323	175	Metrics and reports - technology and tools 	02.10.2009 13:20:06	08.10.2009 10:38:18	3.787916666666667d
+324	176	Determine Reporting Architecture	22.10.2009 10:38:18	26.10.2009 09:44:00	1.886875d
+88	177	Design Quality Report (linking) - Intake Queue	26.10.2009 09:44:00	27.10.2009 09:44:00	1.0d
+4	178	Reports - technology and tools 	03.08.2009 08:00:00	04.09.2009 17:00:00	25.0d
+29	179	Design alerting for core	14.10.2009 08:00:00	21.10.2009 13:26:42	5.555625d
+213	180	Alert for BPEL backlog prior to match processing (in loader q)	17.08.2009 08:00:00	17.08.2009 17:00:00	1.0d
+214	181	Alerts for backlog table	18.08.2009 08:00:00	18.08.2009 17:00:00	1.0d
+236	182	Dev Complete	21.10.2009 13:26:42	21.10.2009 14:26:42	0.125d
+32	183	Testing	03.08.2009 08:00:00	05.02.2010 17:00:00	135.0d
+41	184	Unit Testing	03.08.2009 08:00:00	30.10.2009 15:27:42	64.80770833333334d
+33	185	IT Unit Testing	12.10.2009 08:00:00	26.10.2009 13:26:42	10.555625d
+316	186	Unit testing the Data Entry solution - IT	19.10.2009 08:00:00	23.10.2009 17:00:00	5.0d
+391	187	Junk:  Load test/tuning/optimization for migration	12.10.2009 08:00:00	15.10.2009 10:40:00	3.3333333333333335d
+392	188	Junk:  Load test/tuning/optimization?for task put callout	19.10.2009 08:00:00	22.10.2009 10:40:00	3.3333333333333335d
+172	189	Load test functionality of core	19.10.2009 08:00:00	26.10.2009 13:26:42	5.555625d
+335	190	Development and testing for troubleshooting across the sytem	12.10.2009 08:00:00	19.10.2009 13:26:42	5.555625d
+34	191	Business Unit Testing	03.08.2009 08:00:00	30.10.2009 15:27:42	64.80770833333334d
+120	192	Create Test Plan for Intake	03.08.2009 08:00:00	13.08.2009 10:40:00	8.333333333333334d
+317	193	Unit testing the Data Entry solution - Business	12.10.2009 08:00:00	21.10.2009 09:08:36	7.142916666666666d
+171	194	Unit test functionality of core	12.10.2009 08:00:00	28.10.2009 12:00:00	12.5d
+406	195	Unit Testing of Reports	26.10.2009 08:00:00	30.10.2009 15:27:42	4.807708333333333d
+407	196	Scripting Integration Testing	19.10.2009 08:00:00	27.10.2009 10:00:00	6.25d
+305	197	Create test plan for UI and user process	03.08.2009 08:00:00	25.08.2009 14:20:00	16.666666666666668d
+212	198	Test search times	05.10.2009 08:00:00	20.10.2009 14:20:00	11.666666666666666d
+170	199	Define test plan for core	03.08.2009 08:00:00	19.08.2009 12:00:00	12.5d
+35	200	Integration Testing - Round 1	02.11.2009 08:00:00	13.11.2009 17:00:00	10.0d
+36	201	Installs	02.11.2009 08:00:00	13.11.2009 17:00:00	10.0d
+37	202	Setups	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+329	203	Monitor hub and all tiers under load (sizing/scaling decision)	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+222	204	Extreme testing 	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+217	205	Create Load test scripts	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+319	206	Create Load Capacity test Scripts	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+38	207	Intake Queue Testing	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+225	208	Test massive failure scenarios/break the system	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+320	209	Performance / tuning testing	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+318	210	Load capacity testing (concurrent users on the system and backlog of untouched tasks)	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+23	211	Load test to gauge impact to ni.com	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+39	212	Core Testing	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+40	213	Data Entry Testing	13.11.2009 17:00:00	13.11.2009 17:00:00	0.0d
+42	214	Integration Testing - Round 2	07.12.2009 08:00:00	21.12.2009 15:35:48	10.824583333333333d
+43	215	Installs	07.12.2009 08:00:00	18.12.2009 17:00:00	10.0d
+44	216	Setups	18.12.2009 17:00:00	18.12.2009 17:00:00	0.0d
+45	217	Intake Queue Testing	18.12.2009 17:00:00	18.12.2009 17:00:00	0.0d
+231	218	Test regression impact of existing hub consumers (load)	18.12.2009 17:00:00	18.12.2009 17:00:00	0.0d
+46	219	Core Testing	18.12.2009 17:00:00	18.12.2009 17:00:00	0.0d
+47	220	Data Entry Testing	21.12.2009 08:00:00	21.12.2009 15:35:48	0.8245833333333333d
+48	221	Integration Testing - Round 3	18.01.2010 08:00:00	29.01.2010 17:00:00	10.0d
+49	222	Installs	18.01.2010 08:00:00	29.01.2010 17:00:00	10.0d
+50	223	Setups	29.01.2010 17:00:00	29.01.2010 17:00:00	0.0d
+51	224	Intake Queue Testing	29.01.2010 17:00:00	29.01.2010 17:00:00	0.0d
+52	225	Core Testing	29.01.2010 17:00:00	29.01.2010 17:00:00	0.0d
+53	226	Data Entry Testing	29.01.2010 17:00:00	29.01.2010 17:00:00	0.0d
+54	227	Mock Go-Live	01.02.2010 08:00:00	05.02.2010 17:00:00	5.0d
+55	228	Installs	01.02.2010 08:00:00	03.02.2010 17:00:00	3.0d
+56	229	Setups	04.02.2010 08:00:00	04.02.2010 17:00:00	1.0d
+57	230	Intake Queue Testing	05.02.2010 08:00:00	05.02.2010 17:00:00	1.0d
+58	231	Core Testing	05.02.2010 08:00:00	05.02.2010 17:00:00	1.0d
+59	232	Data Entry Testing	05.02.2010 08:00:00	05.02.2010 17:00:00	1.0d
+60	233	Training & Implementation	12.02.2009 08:00:00	13.02.2010 08:00:00	262.0d
+228	234	Train business users on metadata	13.03.2009 10:00:00	13.03.2009 15:00:00	0.5d
+61	235	End User Documentation	12.02.2009 08:00:00	12.02.2009 17:00:00	1.0d
+119	236	Business Process Documentation	01.07.2009 11:00:00	03.07.2009 16:00:00	2.5d
+62	237	Go Live	13.02.2010 08:00:00	13.02.2010 08:00:00	0.0d
+98	238	Create post go-live test plan for Intake Queue	12.06.2009 08:20:00	22.06.2009 08:20:00	6.0d
+306	239	Create training for users	30.06.2009 10:40:00	07.07.2009 10:40:00	5.0d
+321	240	Documentation of Data Entry solution - IT	05.03.2009 08:00:00	11.03.2009 17:00:00	5.0d
+322	241	Documentation of DI solution - Business	14.07.2009 10:25:42	15.07.2009 14:05:42	1.3333333333333333d
+
+Assignments
+TaskName	ResourceName
+Create AutoDeploys/Installers	Joseph
+Installs	John
+Setups	John
+Intake Queue Testing	Jane
+Core Testing	John
+Data Entry Testing	Wendy
+Installs	John
+Setups	John
+Intake Queue Testing	John
+Core Testing	John
+Data Entry Testing	John
+Installs	John
+Setups	John
+Intake Queue Testing	John
+Core Testing	John
+Data Entry Testing	John
+Installs	John
+Setups	John
+Intake Queue Testing	John
+Core Testing	John
+Data Entry Testing	John
+End User Documentation	(null resource)
+Go Live	(null resource)
+Determine minimum data requirements	Jane
+Review Current hard-link Process (and when they are broken).	Jane
+Evaluate web Roadmap impact to project	Jane
+Review current development new Priorities Maintenance tool	Jane
+Evaluate SLA impacts for transaction source	Jane
+Design Quality Report (linking) - Intake Queue	Lydia
+Design File Load application	Jackie
+File load business requirements	Jane
+File Load Functional Requirements	Jane
+File Load Error Reporting Requirements	Jane
+Define how SLA reports will be measured	Jane
+Define how SLA reports will be measured	Karen
+Create post go-live test plan for Intake Queue	Jane
+Current Loaderdata validation	Jane
+Requirements for Audit tracking	Jane
+Evaluate WAP processes and impact	Jane
+Understand current process and determine new requirements for testing and troubleshooting	Jane
+Alerts mechanism	Karen
+Error management requirements	Jane
+Consensus on acceptable junk data%	John
+Consensus on acceptable junk data%	Jane
+Consensus on acceptable junk data%	Christopher
+Process flow for Intake Queue	Jane
+Document Intake Queue business requirements	Jane
+Requirements Review and Post Review Adjustments	Jane
+Document Intake Queue technical requirements	Karen
+Understand and Document As-IS Web Validations	Jane
+Create Test Plan for Intake	Jane
+Business Process Documentation	Jane
+Re-design loader  (modify it to use loader q)	Joseph
+Develop File Loader	Joseph
+Re-design Product Data Source (modify it to use loader)	Joseph
+Implement Product modifications	Joseph
+Design metadata for priority manager	Joseph
+Design priority manager	Joseph
+Develop priority manager	Joseph
+Develop loader/result queues	Joseph
+Load test to gauge impact to ni.com	William
+Design/code reviews	Joseph
+Reports - technology and tools 	Tiffany
+Create scripts/queries for troubleshooting	Joseph
+Identify sources that skip loader	Jane
+Identify sources that skip loader	Jane
+Forecast of data volumes / rates from various sources by seasonality, geography for sizing	Lydia
+Current Country Routing Rules	Lydia
+Identify initial Source uptake priority (will require further analysis)	Jane
+Identify initial Source uptake priority (will require further analysis)	John
+Interview and document feedback for stakeholders	Jane
+Design alerting for core	Raj
+Review all Sources	John
+Meet with key business owners from owning Apps	John
+Obtain sample data from key areas with BR and w/out	John
+Review sample data for with BR and w/out	John
+Communicate BR decision to team and stakeholders	John
+Agree on Testing methodology	John
+Acquire data, Prepare Spreadsheets, Train Testers, etc	John
+Americas Testing	John
+Europe Testing	John
+Get consensus on Thresholds	John
+Evaluate site reactivation	John
+Define status instructions for BPEL (eg reactivate contact points)	William
+Sign off on process flows	John
+Build BPEL	Raj
+Build search web service wrappers	Raj
+Evaluate get web service wrappers (map&gap current WS support)	Raj
+Design results / UP update queue	Raj
+Design core BPELs (match, create, update logic)	Raj
+Define test plan for core	John
+Unit test functionality of core	John
+Load test functionality of core	Raj
+Agree on Testing methodology	John
+Acquire data	John
+Address Testing	John
+Organization Testing	John
+Get consensus on Address and Organization	John
+Evaluate needed  data updates prior to search (eg country code append)?partner with Kate and Vicky	John
+Requirements and Test for special characters and data load, corrupted data	John
+Determine root cause for failed matching, for junk, for reprocessing,  or for CR	John
+Reprocessing of existing data in pipeline for changes to master settings	John
+Build error q and management	Raj
+Random sample data runs for automation as well as DI	John
+Define super user groups for validation of requirements, DI process	John
+Create AutoDeploys/Installers	Raj
+Test search times	Wendy
+Alert for BPEL backlog prior to match processing (in loader q)	Samantha
+Alerts for backlog table	Samantha
+Audit mechanism for inflow and outflow	Raj
+Create Load test scripts	William
+Define audit mechanisms (on SOA, Oracle)	Raj
+Extreme testing 	John
+Design ESB/BPEL queue listeners	Raj
+Test massive failure scenarios/break the system	William
+Design metadata object architecture	Raj
+Define interaction mechanisms for metadata	Raj
+Train business users on metadata	William
+Test regression impact of existing hub consumers (load)	John
+Setups	Wendy
+Setups	Jane
+Dev Complete	Joseph
+Dev Complete	Raj
+Dev Complete	William
+Dev Complete	William
+Understand as is functionality, Evaluate Current gaps	Wendy
+Create interview questions and interview users of the Data Entry group	Wendy
+Define priority management tool at individual record level (move SLA risk records to top of q)	Wendy
+Mock ups for DI UI and conduct focus groups	Wendy
+Define search capabilities of interface (Bring in record based on priority, criteria)	Wendy
+Evaluate feature to allow manual edit of incoming record	Wendy
+Determine address standardization, validation rules (Need 3 party tool?)	Wendy
+Set priorities for records that get re-queued to core	Wendy
+Define requirements for end user reports	Wendy
+Define audit requirements 	Wendy
+Document User access requirements	Wendy
+Audit/List of fields for manual review	Wendy
+Determine fields that user can modify/edit, view only, or add (keep or overwrite)	Wendy
+Define data architecture requirements (eg site use)	Wendy
+Country Specific Data Requirments (own line item, this is separate from one above)	Wendy
+Evaluate Alerting Needs	Wendy
+Define close loop processes (alert to end users when contact is rejected)	Wendy
+Define workflow process/ resolution process / process flows	Wendy
+Define use cases for manual intervention	Wendy
+Create test plan for UI and user process	Wendy
+Create training for users	Wendy
+Develop interface between queue and Data Architecture	Karen
+Create prototype for Data Entry interface	Karen
+Platform decision for User Interface	Karen
+Architectural review of platform	Karen
+Define DB objects for Data Entry design	Karen
+Data Entry Application Development	Karen
+Create installs and rollbacks for Data Entry solution	Karen
+Design review of Data Entry solution	Karen
+Code review of Data Entry solution	Karen
+User login, access mechanism	Karen
+Evaluate real-time rematching logic	Karen
+Develop Alerting Mechanisms	Karen
+Unit testing the Data Entry solution - IT	William
+Unit testing the Data Entry solution - Business	Wendy
+Load capacity testing (concurrent users on the system and backlog of untouched tasks)	Wendy
+Development Complete	Karen
+Create Load Capacity test Scripts	William
+Performance / tuning testing	William
+Documentation of Data Entry solution - IT	William
+Documentation of DI solution - Business	Wendy
+Metrics and reports - technology and tools 	Karen
+Determine Reporting Architecture	Karen
+Define capability to manage statuses (rejected, approved, onhold, junk) at record or batch level	Wendy
+Identify monitoring checkpoints	Wendy
+Develop Display System Status	Karen
+Design search web service wrappers	Raj
+Monitor hub and all tiers under load (sizing/scaling decision)	William
+Define sequence of bringing tiers up and down	Raj
+Define data recovery plan for errant BPELs	Raj
+Design XML payload 	Raj
+Requirements Complete	(null resource)
+Development and testing for troubleshooting across the sytem	Raj
+Requirements Complete	(null resource)
+Technical Designs	Karen
+Develop Display System Status	Jeffrey
+Develop Display System Status	Raj
+Determine Reporting Architecture	Raj
+Determine Reporting Architecture	Jeffrey
+Additional Development Work	Raj
+Metrics and reports - technology and tools 	Raj
+Additional Development	Joseph
+Define data sent back to sources	Jane
+Develop Web Subscriber (hard link)	Joseph
+Develop Loader Close Loop (to send activities)	Joseph
+Product Data Source Functional Requirements	Jane
+Design Product Data Source Solution	Joseph
+Junk Analysis Testing	Jane
+Create Interview Questions and identify stakeholders, etc	Jane
+Data Rules Proof of Concept (use sample data)	Jane
+Installs	Jane
+Installs	Wendy
+Installs	Karen
+Installs	Raj
+Installs	Joseph
+Setups	Jane
+Setups	Wendy
+Setups	Karen
+Setups	Raj
+Setups	Joseph
+Intake Queue Testing	Jane
+Intake Queue Testing	Wendy
+Intake Queue Testing	Karen
+Intake Queue Testing	Raj
+Intake Queue Testing	Joseph
+Test regression impact of existing hub consumers (load)	Jane
+Test regression impact of existing hub consumers (load)	Wendy
+Test regression impact of existing hub consumers (load)	Karen
+Test regression impact of existing hub consumers (load)	Raj
+Test regression impact of existing hub consumers (load)	Joseph
+Core Testing	Jane
+Core Testing	Wendy
+Core Testing	Karen
+Core Testing	Raj
+Core Testing	Joseph
+Data Entry Testing	Jane
+Data Entry Testing	Wendy
+Data Entry Testing	Karen
+Data Entry Testing	Raj
+Data Entry Testing	Joseph
+Installs	Jane
+Installs	Wendy
+Installs	Karen
+Installs	Raj
+Installs	Joseph
+Installs	Jane
+Installs	Wendy
+Installs	Karen
+Installs	Raj
+Installs	Joseph
+Installs	Jane
+Installs	Wendy
+Installs	Karen
+Installs	Raj
+Installs	Joseph
+Junk:  Load test/tuning/optimization for migration	Karen
+Junk:  Load test/tuning/optimization?for task put callout	Karen
+Algorithm change Impacts	John
+Identify all sources that go into loader	Jane
+Forecast of data volumes / rates from various sources by seasonality, geography for sizing	Mary
+Finalize Source uptake Schedule	Jane
+Review Stakeholder Questions and Interview Candidates	Jane
+Translate Stakeholder Feedback into Business Requirements	Jane
+Routing Rules for Incoming Data	Jane
+Loader Transformation Rules (ie Organization Name = person name rule)	Jane
+Future Loader data validation requirements	Jane
+File load business requirements	Lydia
+File Load Functional Requirements	Lydia
+File Load Error Reporting Requirements	Lydia
+Product Data Source Business Requirements	Jane
+Define communication back to Web for Hard Link and Statuses	Jane
+Junk Analysis Testing	Lydia
+Intake Queue Testing	Lydia
+Installs	Lydia
+Setups	Lydia
+Intake Queue Testing	Lydia
+Test regression impact of existing hub consumers (load)	Lydia
+Core Testing	Lydia
+Data Entry Testing	Lydia
+Installs	Lydia
+Create Test Plan for Intake	Lydia
+Unit testing the Data Entry solution - Business	Lydia
+Unit Testing of Reports	Lydia
+Unit Testing of Reports	John
+Unit Testing of Reports	Jane
+Scripting Integration Testing	Lydia
+Modify Web API (clear Ids on substantial change, add missing event monitoring)	Joseph
+Develop result queue subscriber	Joseph
+Develop back-end script loader API	Joseph
+Reports - technology and tools 	Joseph
+Build new Sync Functionality for Change Source	Raj
+Develop Purging mechanism for workflow data	Karen
+Define remaining Data Entry API actions	Karen
+Implement Audit calls	Karen
+Create installs and rollbacks for Data Entry solution	Karen
+
+Relations (max.10)
+TaskID	Pre1	Pre2	Pre3	Pre4	Pre5	Pre6	Pre7	Pre8	Pre9	Pre10	Suc1	Suc2	Suc3	Suc4	Suc5	Suc6	Suc7	Suc8	Suc9	Suc10	
+0																					
+2																					
+3																					
+358																					
+395																					
+128																					
+129																					
+130											132										
+131																					
+132	130										396										
+359																					
+360											397										
+397	360										134										
+134	397										107	398	76								
+398	134																				
+27																					
+361																					
+71																					
+399																					
+121																					
+105											401										
+401	105										400										
+400	401										362										
+69																					
+362	400																				
+364																					
+76	134										75	111									
+75	76										77										
+365																					
+94											93										
+93	94										115	92									
+92	93										77	95									
+95	92										114										
+366																					
+402											353										
+353	402										352										
+352	353										113	112									
+368																					
+346																					
+405											108										
+90																					
+109											167	328									
+356																					
+117	77																				
+108	405										25										
+107	134																				
+77	92	75									117	339	396								
+396	132	77																			
+152																					
+118											232										
+115	93										232										
+114	95										232										
+113	352										232										
+112	352										232										
+111	76										110	232									
+110	111										22	5	232								
+25	108										232	409									
+409	25										347										
+408	347																				
+347	409										232	408	348								
+348	347										232	411									
+411	348																				
+24											232										
+22	110										232										
+5	110										232										
+412																					
+339	77										232										
+232	339	113	115	118	114	112	111	110	25	347											
+151																					
+370																					
+147											146										
+146	147										145										
+145	146										144										
+144	145										143	167	328	334	223	155					
+143	144										371										
+371	143																				
+394																					
+141											140										
+140	141										139	138									
+139	140																				
+138	140										137	334									
+137	138																				
+372																					
+162																					
+161																					
+160											334										
+374																					
+176											175										
+175	176										174										
+174	175										173										
+173	174										168										
+168	173										334										
+230																					
+208																					
+179																					
+204																					
+184											180										
+180	184										201	334									
+201	180																				
+334	168	160	138	144	180						333	167	328	183	226	29					
+159																					
+333	334										166	233									
+167	144	109	334								158	233									
+158	167										332	233									
+328	144	109	334								338	233									
+155	144										157	233									
+157	155										233										
+183	334										233										
+223	144										233										
+226	334										227	233									
+227	226										233										
+166	333										233	414									
+414	166										331										
+331	414										233										
+338	328										233										
+332	158										178	233									
+178	332										233										
+233	178	333	167	158	328	155	157	183	223	226											
+7																					
+375																					
+265											264	263	259	257	272	270	253				
+264	265										261	260	254	273	249	248	247				
+263	265																				
+261	264										271	308									
+260	264																				
+259	265																				
+257	265																				
+254	264																				
+376																					
+273	264										300										
+272	265																				
+325																					
+271	261																				
+270	265																				
+253	265										336										
+336	253										311	309	297	415	416						
+377																					
+249	264																				
+248	264																				
+247	264																				
+246																					
+312											293										
+415	336																				
+416	336																				
+297	336										293										
+315	18	268									293										
+300	273										310	293									
+310	300										311	293									
+311	336	310									337										
+337	311										303	293									
+303	337										293										
+309	336										293										
+308	261										295	327	293								
+295	308										293	417									
+417	295										418										
+418	417										302										
+302	418										293										
+293	302	312	297	315	300	310	337	303	309	308	242										
+242	293																				
+13																					
+15											18										
+18	15										315	16	269	215							
+16	18										14										
+14	16										277										
+17											234										
+269	18																				
+277	14										221										
+327	308																				
+326																					
+215	18										234										
+221	277										234										
+234	17	221	215																		
+21																					
+97											268										
+268	97										315	323									
+323	268										324										
+324	323										88										
+88	324																				
+4																					
+29	334										236										
+213											214										
+214	213																				
+236	29																				
+32																					
+41																					
+33																					
+316																					
+391																					
+392																					
+172																					
+335																					
+34																					
+120																					
+317																					
+171																					
+406																					
+407																					
+305																					
+212																					
+170																					
+35																					
+36											37	222	38	225	23	39	40	329	217	319	
+37	36																				
+329	36																				
+222	36																				
+217	36																				
+319	36																				
+38	36																				
+225	36																				
+320	36																				
+318	36																				
+23	36																				
+39	36																				
+40	36																				
+42																					
+43											44										
+44	43										45	231	46	47							
+45	44																				
+231	44																				
+46	44																				
+47	44																				
+48																					
+49											50										
+50	49										51	52	53								
+51	50																				
+52	50																				
+53	50										55										
+54																					
+55	53										56										
+56	55										57	58	59								
+57	56																				
+58	56																				
+59	56										62										
+60																					
+228																					
+61																					
+119																					
+62	59																				
+98																					
+306																					
+321																					
+322																					
